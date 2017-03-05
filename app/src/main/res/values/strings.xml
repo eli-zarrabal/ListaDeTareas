@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListaDeTareas</string>
+    <string name="btn_agregar">Nueva Tarea </string>
+
+
+    <string name="btn_ok"> Guardar </string>
+    <string name="btn_cancel"> Cancelar </string>
+
+
+    <!-- Nueva Activity -->
+
+    <string name="hint_titulo"> Titulo </string>
+    <string name="hint_descripcion">Descripcion </string>
+    <string name="hint_fecha"> dd/mm/yy</string>
+</resources>
